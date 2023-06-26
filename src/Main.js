@@ -22,6 +22,7 @@ import readTitle from "./img/readNews.svg";
 import left from "./img/left.svg";
 import rightArrow from "./img/rightArrow.svg";
 import last from "./img/lastSection.svg";
+import video from "./img/video.mp4";
 
 const Main = () => {
   return (
